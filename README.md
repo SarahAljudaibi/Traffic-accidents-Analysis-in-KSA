@@ -19,10 +19,6 @@ this project cover:
 - Accidents Details 2016 and 2017 dataframes
 
 
-### The Article link
-https://medium.com/@sarahal.jodaiby/saudi-arabiatraffic-accidents-data-before-women-started-to-drive-89d35ecbb45a
-
-
 ### Referances
 
 - accidents details 2016. [online] Available at: https://data.gov.sa/Data/ar/dataset/traffic-accident-statistics-as-of-1437-h [Accessed 21 March 2020].
